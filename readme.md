@@ -2,7 +2,7 @@
 
 By Prince Kr Paswan
 
-## [Link to the Law-Page (project-3)](https://seo-page.netlify.app/)
+## [Link to the SEO-Page (project-3)](https://seo-page.netlify.app/)
 
 
 ![Completed Website](seo.png)
